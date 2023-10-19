@@ -2,9 +2,10 @@ This is code for generating facial photograph after orthodontics.
 
 Note:
 1. The directory tree is like
-      - Code
+      
+       - Code
          - 2DRegist_Test.py (main program)
-      - Data
+       - Data
          - Case1
             - teeth       (save the dental model before alignment)
             - teeth_after (save the dental model after alignment)
